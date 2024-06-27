@@ -48,3 +48,52 @@
     - apro il frigorifero
     - sistemo la spesa al suo interno
     - chiudo il frigorifero
+
+
+
+
+
+# Ordinare una pizza
+
+- apri l'applicazione
+    - prendi il telefono
+    - SE hai l'applicazione per ordinare la pizza
+        - apri l'applicazione
+    - ALTRIMENTI 
+        - apri google
+        - cerchi la pizzeria su google
+        - chiami la pizzeria per ordinare la pizza
+- scegli la pizzeria
+    apro l'elenco delle pizzerie
+        - SE la mia pizzeria preferita è aperta
+            - scelgo quella
+        - ALTRIMENTI
+            - cerco nella lista una pizzeria 
+- scegli la pizza
+    - apro l'elenco delle pizze
+        - SE c'è il mio gusto preferito
+            - scelgo il mio gusto preferito
+        - ALTRIMENTI 
+            -  cerco una pizza con degli ingredienti che mi piacciono
+- paghi
+    - imposto il mio metodo di pagamento
+    - SE la mia carta è già registrata
+        - pago
+    - ALTRIMENTI 
+        - registro il mio metodo di pagamento preferito
+        - pago
+- ritiri l'ordine
+    - SE la pizzeria consegna a domicilio 
+        - aspetto il rider
+    - ALTRIMENTI 
+        - vado in pizzeria per ritirare la pizza
+- mangio la pizza
+    - SE mangio tutta la pizza
+        - butto il cartone
+    - ALTRIMENTI 
+        - prendo un piatto
+        - poggio la pizza sul piatto
+        - sistemo la pizza in frigo
+        - butto il cartone della pizza
+
+
