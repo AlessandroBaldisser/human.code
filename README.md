@@ -97,3 +97,34 @@
         - butto il cartone della pizza
 
 
+# Scegliere cosa guardare su Netflix
+
+- accendo la televisione
+- apro Netflix
+    - controllo se la tv è connessa al wifi
+        - SE non è connessa al wifi
+            - la connetto 
+            - apro Netflix
+        - ALTRIMENTI
+            - apro Netflix
+- scelgo cosa da vedere
+    - faccio un check della mia lista
+        - SE c'è un film nella mia lista
+            - SE ho voglia di guardare un film
+                - vedo quel film
+        - SE c'è una serie tv nella mia lista
+            - SE ho voglia di vedere una serie tv
+                - vedo quella serie
+        - ALTRIMENTI
+            - vedo cosa mi consiglia Netflix
+                - SE mi consiglia quelcosa che mi piace
+                    - lo vedo
+                - ALTRIMENTI 
+                    - cerco qualcosa che mi piace nelle categorie
+- commento il film
+    - SE il film mi è piaciuto
+        - commenterò positivamente
+        - lo consiglierò ai miei amici
+    - ALTRIMENTI 
+        - commenterò negativamente
+        - non lo consiglierò ai miei amici
